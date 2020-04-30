@@ -1,0 +1,16 @@
+START_LEVEL
+level_name:Guitar hero
+ball_velocities:30,5 -30,5
+background:image(background_images/musical.jpg)
+paddle_speed:30
+paddle_width:120
+block_definitions:definitions/musical_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:100
+num_blocks:6
+START_BLOCKS
+----rrr---
+----rrr---
+END_BLOCKS
+END_LEVEL

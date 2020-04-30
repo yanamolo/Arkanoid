@@ -1,0 +1,8 @@
+# default values for blocks
+default height:100 width:80 stroke:color(black) hit_points:1
+
+# block definitions
+bdef symbol:r  fill:image(block_images/guitar.jpg)
+
+# spacers definitions
+sdef symbol:- width:50
