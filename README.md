@@ -13,8 +13,7 @@ strengths, and the levels designed using text files. The program parses the text
 
 ## Compiling and Running
 You must have Java SE 10 or higher installed on your machine.
-You can download the added _Arkanoid.jar_ (located [here](https://github.com/matanmkl/Arkanoid/tree/master/out/artifacts/Arkanoid "This path skips through empty directories")). run it and play around :).
-Also, you can download the entire source code and run the game via any Java IDEA, if you do be sure to also download the provided _biuoop-1.4.jar_ (located [here](https://github.com/matanmkl/Arkanoid/tree/master/BIU%20Stuff)).
+You can download the entire source code and run the game via any Java IDEA, if you do - be sure to also download the provided _biuoop-1.4.jar_ (added to this repository).
 
 ![Arkanoid Game](https://github.com/matanmkl/Arkanoid/blob/master/Images/Arkanoid.JPG)
 <!--stackedit_data:
